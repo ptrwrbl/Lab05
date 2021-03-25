@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="notename_placeholder">Nowa notatka</string>
+    <string name="notecontent_placeholder">Przykładowy tekst notatki...</string>
+    <string name="openbutton_text">Czytaj</string>
+    <string name="savebutton_text">Zapisz</string>
+
+    <string name="opening_success">Odczyt zakończony powodzeniem!</string>
+    <string name="opening_error">Wystąpił błąd podczas odczytu!</string>
+    <string name="saving_success">Zapis zakończony powodzeniem!</string>
+    <string name="saving_error">Wystąpił błąd podczas zapisu!</string>
+</resources>
